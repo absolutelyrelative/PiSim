@@ -1,3 +1,4 @@
+This is an example of Probability analysis more than a fully-fledged project encompassing multiple software development practices, but it was still very interesting to tackle on the board, and then programmatically!
 # PiSim
 Did you know that you can approximate the value of Pi with rain?
 
